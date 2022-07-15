@@ -1,12 +1,12 @@
 # spring-boot-and-data-JPA
-##Spring Boot and Spring Data JPA basics
+## Spring Boot and Spring Data JPA basics
 
 Tutorials on Spring Boot done with:
 - Java
 - PostgreSQL
 - Maven
 
-##Info
+## Info
 
 Used tutorials:
 
